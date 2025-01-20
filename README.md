@@ -18,7 +18,7 @@ This project is a web application that helps users find recipes based on their a
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Python, Flask
 - Database: MySQL
-**Check out the https://github.com/srivarshini-21/Smart-Recipe-Planner for more details.**
+- **Check out the https://github.com/srivarshini-21/Smart-Recipe-Planner for more details.**
 
 ### Login Page
 
@@ -31,7 +31,8 @@ The login page allows users to authenticate by entering a username and password.
 - Validation of user input against mock credentials.
 - Displays an error message for invalid login attempts.
 - Provides a basic understanding of JavaScript's role in handling form submissions and validating user input.
-**Check out the https://github.com/srivarshini-21/Login-Page for more details.**
+- **Check out the https://github.com/srivarshini-21/Login-Page for more details.**
+
 
 
 ## 📚 Skills
