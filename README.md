@@ -56,6 +56,6 @@ The login page allows users to authenticate by entering a username and password.
 
 - I'm a coffee enthusiast and can't start my day without a cup of joe.
 - In my free time, I enjoy hiking and exploring nature.
-- I love listening to music and and sketching! 
+- I love listening to music and sketching! 
 
 Thanks for stopping by! Feel free to connect with me and explore my repositories. Let's build something amazing together! 🚀
