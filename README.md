@@ -49,8 +49,8 @@ The login page allows users to authenticate by entering a username and password.
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- **Email**: srivarshini0402@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/srivarshini-r-s-21f2004
 
 ## ✨ Fun Facts
 
