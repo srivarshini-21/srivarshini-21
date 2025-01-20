@@ -15,7 +15,7 @@ This project is a web application that helps users find recipes based on their a
 - Profile Picture Updation
 
 **Technologies Used:**
-- Frontend: HTML, CSS, JavaScript, React.js
+- Frontend: HTML, CSS, JavaScript
 - Backend: Python, Flask
 - Database: MySQL
 - **Check out the https://github.com/srivarshini-21/Smart-Recipe-Planner for more details.**
