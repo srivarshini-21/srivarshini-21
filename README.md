@@ -33,6 +33,16 @@ The login page allows users to authenticate by entering a username and password.
 - Provides a basic understanding of JavaScript's role in handling form submissions and validating user input.
 - **Check out the https://github.com/srivarshini-21/Login-Page for more details.**
 
+### Stock-Dashboard
+
+Stock Dashboard is a web application that provides real-time stock market data, visualizations, and analysis tools to help users make informed investment decisions.
+
+**Features:**
+- Real-time stock price updates
+- Historical data charts
+- Technical analysis indicators
+- **Check out the https://github.com/srivarshini-21/Stock-Dashboard for more details.**
+
 
 
 ## 📚 Skills
