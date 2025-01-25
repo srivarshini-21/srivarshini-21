@@ -13,13 +13,6 @@ This project is a web application that helps users find recipes based on their a
 
 The login page allows users to authenticate by entering a username and password. It utilizes mock credentials to demonstrate the basic functionality of a login system using JavaScript. Users input their details, and the JavaScript checks if the entered credentials match the predefined mock username and password. If the credentials are correct, the user is granted access; otherwise, an error message is displayed.
 
-**Key Features:**
-
-- Simple and clean design with a user-friendly interface.
-- Input fields for username and password.
-- Validation of user input against mock credentials.
-- Displays an error message for invalid login attempts.
-- Provides a basic understanding of JavaScript's role in handling form submissions and validating user input.
 - **Check out the https://github.com/srivarshini-21/Login-Page for more details.**
 
 ### Stock-Dashboard
