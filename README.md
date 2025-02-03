@@ -39,6 +39,7 @@ Stock Dashboard is a web application that provides real-time stock market data, 
 
 - **Email**: srivarshini0402@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/srivarshini-r-s-21f2004
+- **Portfolio**: https://srivarshini-21.github.io/Portfolio/
 
 ## ✨ Fun Facts
 
