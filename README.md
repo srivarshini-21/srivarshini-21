@@ -21,6 +21,11 @@ Stock Dashboard is a web application that provides real-time stock market data, 
 
 - **Check out the https://github.com/srivarshini-21/Stock-Dashboard for more details.**
 
+### Book-Review-Platform
+A full-stack book review application built with React, Node.js, Express, and MongoDB, which is completely responsive.
+
+- **Check out the https://github.com/srivarshini-21/book-review-platform for more details.**
+
 
 
 ## 📚 Skills
