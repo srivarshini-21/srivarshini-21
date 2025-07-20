@@ -37,7 +37,7 @@ A full-stack book review application built with React, Node.js, Express, and Mon
 
 ## 🌱 Currently Learning
 
-- ReactJs
+- Python
 - Cybersecurity
 
 ## 📫 How to Reach Me
