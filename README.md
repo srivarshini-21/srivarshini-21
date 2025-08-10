@@ -9,12 +9,6 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 This project is a web application that helps users find recipes based on their available ingredients and dietary preferences. It also allows users to create an account, log in, and save their favorite recipes.
 - **Check out the https://github.com/srivarshini-21/Smart-Recipe-Planner for more details.**
 
-### Login Page
-
-The login page allows users to authenticate by entering a username and password. It utilizes mock credentials to demonstrate the basic functionality of a login system using JavaScript. Users input their details, and the JavaScript checks if the entered credentials match the predefined mock username and password. If the credentials are correct, the user is granted access; otherwise, an error message is displayed.
-
-- **Check out the https://github.com/srivarshini-21/Login-Page for more details.**
-
 ### Stock-Dashboard
 
 Stock Dashboard is a web application that provides real-time stock market data, visualizations, and analysis tools to help users make informed investment decisions.
@@ -25,6 +19,19 @@ Stock Dashboard is a web application that provides real-time stock market data, 
 A full-stack book review application built with React, Node.js, Express, and MongoDB, which is completely responsive.
 
 - **Check out the https://github.com/srivarshini-21/book-review-platform for more details.**
+
+### Clinic Front Desk - Full Stack Application
+Simple, user-friendly website for clinic admin to manage patients, doctors and appointments - Next.js and NestJs
+- Frontend <br>
+Next.js (React) <br>
+TailwindCSS <br>
+JWT authentication
+
+- Backend <br>
+NestJS <br>
+TypeORM <br>
+MySQL
+- **Check out the https://github.com/srivarshini-21/Front-Desk-Clinic for more details.**
 
 
 
