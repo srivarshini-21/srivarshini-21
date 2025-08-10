@@ -31,7 +31,7 @@ JWT authentication
 NestJS <br>
 TypeORM <br>
 MySQL
-- **Check out the https://github.com/srivarshini-21/Front-Desk-Clinic for more details.**
+- **Check out the https://github.com/srivarshini-21/Front_Desk-Clinic for more details.**
 
 
 
