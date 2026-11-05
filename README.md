@@ -1,62 +1,49 @@
-# Hello, I'm Srivarshini! 👋
+# Hey, I’m Srivarshini 👋
 
-Welcome to my GitHub profile! I'm passionate about creating innovative web applications that make life easier. Here's a bit about me and my work:
+Welcome to my little corner of GitHub. I’m a software engineer in Bengaluru who likes turning “hmm, is this even possible?” into something people can actually use.
 
-## 🌟 Projects
+Lately, I’ve been working on geospatial software: making geographic data behave, turning it into maps, and helping those maps make sense across different places and levels of detail. I also wander into full-stack product work and AI-powered ideas—apparently my brain doesn’t believe in sticking to one tab.
 
-### Smart Recipe Planner
+When I’m away from a screen, there’s a good chance I’m looking for coffee, hiking somewhere green, listening to music, or sketching something (with results ranging from “not bad” to “let’s call it abstract”).
 
-This project is a web application that helps users find recipes based on their available ingredients and dietary preferences. It also allows users to create an account, log in, and save their favorite recipes.
-- **Check out the https://github.com/srivarshini-21/Smart-Recipe-Planner for more details.**
+## Things I’ve been making
 
-### Stock-Dashboard
+### 🗺️ Geospatial maps &amp; product work
 
-Stock Dashboard is a web application that provides real-time stock market data, visualizations, and analysis tools to help users make informed investment decisions.
+At Latlong, I joined the work on Aaloka when it was still at the technical-feasibility stage. Since then I’ve been involved in taking the idea toward a working geospatial SaaS product—from SVG maps and geographic hierarchies to the interfaces, APIs, and database work around them. One fun scale detail: the first administrative map layer covers 176+ countries, with deeper hierarchies for India and Mexico.
 
-- **Check out the https://github.com/srivarshini-21/Stock-Dashboard for more details.**
+### ⚖️ VidhiWise
 
-### Book-Review-Platform
-A full-stack book review application built with React, Node.js, Express, and MongoDB, which is completely responsive.
+An AI-assisted legal-tech platform for document and case-law workflows. It can summarize documents and turn summaries into audio in English, Hindi, and Kannada, help with legal terminology, generate documents, and use RAG to find relevant case law.
 
-- **Check out the https://github.com/srivarshini-21/book-review-platform for more details.**
+_It’s a private project without a public demo, but I’m happy to chat about it._
 
-### Clinic Front Desk - Full Stack Application
-Simple, user-friendly website for clinic admin to manage patients, doctors and appointments - Next.js and NestJs
-- Frontend <br>
-Next.js (React) <br>
-TailwindCSS <br>
-JWT authentication
+### 🩺 [Front Desk Clinic](https://github.com/srivarshini-21/Front_Desk_Clinic)
 
-- Backend <br>
-NestJS <br>
-TypeORM <br>
-MySQL
-- **Check out the https://github.com/srivarshini-21/Front_Desk_Clinic for more details.**
+A clinic-management app for patient, doctor, and appointment workflows. Built with a Next.js frontend and a NestJS backend, with authentication and role-based access.
 
+### 📚 [Book Review Platform](https://github.com/srivarshini-21/book-review-platform)
 
+A responsive place for readers to find books, leave reviews, and share their ratings. MERN stack, because books deserve good interfaces too.
 
-## 📚 Skills
+### 🥕 [Smart Recipe Planner](https://github.com/srivarshini-21/Smart-Recipe-Planner)
 
-- **Frontend Development**: HTML, CSS, JavaScript, React.js
-- **Backend Development**: Python, Flask
-- **Database Management**: MySQL
-- **Version Control**: Git, GitHub
+Tell it what’s in the kitchen (and what you like to eat); it helps find recipes and save favorites.
 
-## 🌱 Currently Learning
+### 📈 [Stock Dashboard](https://github.com/srivarshini-21/Stock-Dashboard)
 
-- Python
-- Cybersecurity
+A stock-data dashboard with visualizations and analysis tools. A project in making market information easier to explore.
 
-## 📫 How to Reach Me
+## A few things I reach for
 
-- **Email**: srivarshini0402@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/srivarshini-r-s-21f2004
-- **Portfolio**: https://srivarshini-21.github.io/Portfolio/
+TypeScript · JavaScript · React · Next.js · Node.js · PostgreSQL/PostGIS · SQL · Python · SVG · GeoJSON · LLMs · RAG
 
-## ✨ Fun Facts
+And when I’m not building: I’ve mentored first-year students in an eight-day HTML/CSS/JavaScript workshop, and previously made an IBM Watsonx chatbot for Equitalk, a gender-equity platform.
 
-- I'm a coffee enthusiast and can't start my day without a cup of joe.
-- In my free time, I enjoy hiking and exploring nature.
-- I love listening to music and sketching! 
+## Find me around the internet
 
-Thanks for stopping by! Feel free to connect with me and explore my repositories. Let's build something amazing together! 🚀
+- 🌐 [Portfolio](https://srivarshini-21.github.io/Portfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/srivarshini-r-s-21f2004)
+- 💌 [Email](mailto:srivarshini0402@gmail.com)
+
+Thanks for stopping by—have a look around, and feel free to say hi. ✨
